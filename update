@@ -1,0 +1,5 @@
+UPDATE endereco
+SET
+    bairro = 'PARAISO'
+WHERE
+    cod_endereco = 1
